@@ -5,7 +5,7 @@ def main():
     host = 'localhost'
     port = 5000
     s.connect((host, port))
-    print('It works!')
+    print('It works')
 
 if __name__ == '__main__':
     main()
