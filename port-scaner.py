@@ -1,7 +1,7 @@
 # A port scanner that will take an IP addr 
 # and a list of ports as input then test 
 # of any response from the listed ports. 
-# 
+# my code
 
 from socket import *
 
@@ -15,4 +15,5 @@ def conScan(tgthost, tgtPort):
         print(f'[-]{tgtPort}/tcp closed')
 
 if __name__ == '__main__':
-
+    if conScan = 
+        
